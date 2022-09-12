@@ -18,4 +18,7 @@
    <img align="center" alt="" src="">
   
  </div>
+  
+  <!-- links usados
+ https://dev.to/envoy_/150-badges-for-github-pnk#social -->
 
